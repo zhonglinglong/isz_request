@@ -1,0 +1,564 @@
+2017-12-25 16:43:20,884 - 14868 - INFO : testing at : testloglog
+2017-12-25 16:43:30,115 - 15436 - INFO : testing at : testloglog
+2017-12-25 16:44:12,157 - 14408 - INFO : testing at : testloglog
+2017-12-25 16:44:44,828 - 15048 - INFO : testing at : testloglog
+2017-12-25 16:48:40,634 - 9556 - INFO : testing at : testloglog
+2017-12-25 16:49:10,209 - 8256 - INFO : testing at : testloglog
+2017-12-25 16:52:43,496 - 15020 - INFO : testing at : testloglog
+2017-12-25 16:53:07,135 - 16312 - INFO : testing at : testloglog
+2017-12-25 16:56:20,203 - 15960 - INFO : testing at : testloglog
+2017-12-25 16:57:32,038 - 15296 - INFO : testing at : testloglog
+2017-12-25 16:57:56,986 - 2384 - INFO : testing at : testloglog
+2017-12-25 16:57:56,986 - 2384 - INFO : cese
+2017-12-25 16:58:27,257 - 4444 - INFO : testing at : testloglog
+2017-12-25 16:58:27,257 - 4444 - ERROR : one assert at : 
+cannot concatenate 'str' and 'int' objects
+
+2017-12-25 17:09:02,414 - 14964 - INFO : testing at : testloglog
+2017-12-25 17:09:02,415 - 14964 - ERROR : one assert at : 
+cannot concatenate 'str' and 'int' objects
+
+2017-12-25 17:12:16,888 - 15176 - INFO : testloglog
+2017-12-25 17:12:16,888 - 15176 - ERROR : one assert at : 
+cannot concatenate 'str' and 'int' objects
+
+2017-12-26 16:20:12,193 - 17104 - WARNING : 接口异常！
+接口地址：http://isz.ishangzu.com/isz_base/UserController/searchUsers.action
+请求参数：{"pageNumber":1,"pageSize":50,"sort":"t.update_time","order":"desc"}
+返回结果：系统出现未知错误请检查数据再次操作.
+2017-12-26 16:21:46,298 - 1176 - WARNING : 接口异常！
+接口地址：http://isz.ishangzu.com/isz_base/UserController/searchUsers.action
+请求参数：{"pageNumber":1,"pageSize":50,"sort":"t.update_time","order":"desc"}
+返回结果：系统出现未知错误请检查数据再次操作.
+2017-12-26 16:25:09,263 - 17328 - INFO : None
+2017-12-26 16:26:02,674 - 11136 - INFO : myRequest
+2017-12-26 16:26:50,426 - 15912 - INFO : myRequest
+2017-12-26 16:32:28,641 - 16564 - INFO : get_cookie
+2017-12-26 16:32:28,670 - 16564 - INFO : myRequest
+2017-12-26 16:35:06,910 - 6252 - INFO : get_cookie
+2017-12-26 16:35:10,525 - 6252 - INFO : myRequest
+2017-12-26 16:35:10,562 - 6252 - INFO : myRequest
+2017-12-26 16:35:10,581 - 6252 - WARNING : 接口异常！
+接口地址：isz_base/LoginController/checkUserPassWord.action
+请求参数：{'user_phone': '18279881085', 'user_pwd': 'isz123456', 'authTag': u'4028804A6091EF4E016091F616C20002', 'auth_code': 'BD229B6E3C19414DD084777CBFFB987E7C0CF55C69E29DD0458D8845DDC85EE3E3419450E65FF6253259989567AD91D6702DB353AD1110A6E060AB64CD0F9003418304427FC18A68C3D95B8284BCC6779729B3B6994885AAB680C08B655098C31736095C7D7F791D6B6EF290C429411F896275B896404BBD06CD262EA6A33757FA8333C4A0DB1280FF9B6D8A5C579BEB4B7952B4BFBA5DF96113706B81FEBD933D922AE7991CE199D672EB0DE067940BD69450A2D5CE334F1C234B9F868429E26F056702028732D5DD89063E463D17B0ABAD033DCF3599F1A4C370C8D8D3ECEAFB2C71054650AB26ECBE35DD2E15A30D5A78E8DC8E84B8AF5BF2B63A5A8FDCD8F4B3774B036758BB8A0DE2303BEBCA5876D1373405DA084E9A2997D113F80D2974D0567F512732FD81C208C09CDEDE17382756767E82D0B680D695AF81F4D82A'}
+返回结果：密码错误
+2017-12-26 16:35:10,582 - 6252 - INFO : myRequest
+2017-12-26 16:35:53,059 - 16996 - INFO : get_cookie
+2017-12-26 16:35:56,049 - 16996 - INFO : myRequest
+2017-12-26 16:35:56,088 - 16996 - INFO : myRequest
+2017-12-26 16:35:56,397 - 16996 - INFO : myRequest
+2017-12-26 16:35:56,559 - 16996 - INFO : myRequest
+2017-12-26 16:35:56,585 - 16996 - WARNING : 接口异常！
+接口地址：http://isz.ishangzu.com/isz_base/LoginController/checkVerificationCode.action
+请求参数：{'user_phone': '18279881085', 'user_pwd': 'a123456789', 'authTag': u'4028804A6091EF4E016091F6C8AE0003', 'verificationCode': '0451', 'auth_code': 'BD229B6E3C19414DD084777CBFFB987E7C0CF55C69E29DD0458D8845DDC85EE3E3419450E65FF6253259989567AD91D6702DB353AD1110A6E060AB64CD0F9003418304427FC18A68C3D95B8284BCC6779729B3B6994885AAB680C08B655098C31736095C7D7F791D6B6EF290C429411F896275B896404BBD06CD262EA6A33757FA8333C4A0DB1280FF9B6D8A5C579BEB4B7952B4BFBA5DF96113706B81FEBD933D922AE7991CE199D672EB0DE067940BD69450A2D5CE334F1C234B9F868429E26F056702028732D5DD89063E463D17B0ABAD033DCF3599F1A4C370C8D8D3ECEAFB2C71054650AB26ECBE35DD2E15A30D5A78E8DC8E84B8AF5BF2B63A5A8FDCD8F4B3774B036758BB8A0DE2303BEBCA5876D1373405DA084E9A2997D113F80D2974D0567F512732FD81C208C09CDEDE17ACFA2DB59C42D044D85A9316E30902B7'}
+返回结果：验证码错误！
+2017-12-26 16:35:56,608 - 16996 - WARNING : 接口异常！
+接口地址：http://isz.ishangzu.com/isz_base/LoginController/checkVerificationCode.action
+请求参数：{'user_phone': '18279881085', 'user_pwd': 'a123456789', 'authTag': u'4028804A6091EF4E016091F6C8AE0003', 'verificationCode': '0451', 'auth_code': 'BD229B6E3C19414DD084777CBFFB987E7C0CF55C69E29DD0458D8845DDC85EE3E3419450E65FF6253259989567AD91D6702DB353AD1110A6E060AB64CD0F9003418304427FC18A68C3D95B8284BCC6779729B3B6994885AAB680C08B655098C31736095C7D7F791D6B6EF290C429411F896275B896404BBD06CD262EA6A33757FA8333C4A0DB1280FF9B6D8A5C579BEB4B7952B4BFBA5DF96113706B81FEBD933D922AE7991CE199D672EB0DE067940BD69450A2D5CE334F1C234B9F868429E26F056702028732D5DD89063E463D17B0ABAD033DCF3599F1A4C370C8D8D3ECEAFB2C71054650AB26ECBE35DD2E15A30D5A78E8DC8E84B8AF5BF2B63A5A8FDCD8F4B3774B036758BB8A0DE2303BEBCA5876D1373405DA084E9A2997D113F80D2974D0567F512732FD81C208C09CDEDE17ACFA2DB59C42D044D85A9316E30902B7'}
+返回结果：验证码错误！
+2017-12-26 16:35:56,608 - 16996 - INFO : myRequest
+2017-12-26 16:36:38,927 - 16860 - INFO : get_cookie
+2017-12-26 16:36:41,469 - 16860 - INFO : myRequest
+2017-12-26 16:36:41,529 - 16860 - WARNING : 接口异常！
+接口地址：http://isz.ishangzu.com/isz_base/UserController/searchUsers.action
+请求参数：{"pageNumber":1,"pageSize":50,"sort":"t.update_time","order":"desc"}
+返回结果：系统出现未知错误请检查数据再次操作.
+2017-12-26 16:37:20,447 - 7428 - INFO : get_cookie
+2017-12-26 16:37:23,201 - 7428 - INFO : myRequest
+2017-12-26 16:37:23,276 - 7428 - WARNING : 接口异常！
+接口地址：http://isz.ishangzu.com/isz_base/UserController/searchUsers.action
+请求参数：{"pageNumber":1,"pageSize":50,"sort":"t.update_time","order":"desc"}
+返回结果：系统出现未知错误请检查数据再次操作.
+2017-12-26 16:39:59,323 - 14684 - INFO : get_cookie
+2017-12-26 16:40:02,282 - 14684 - INFO : myRequest
+2017-12-26 16:40:20,345 - 10876 - INFO : get_cookie
+2017-12-26 16:40:22,891 - 10876 - INFO : myRequest
+2017-12-26 16:44:25,582 - 12060 - INFO : None
+2017-12-26 16:44:25,582 - 12060 - INFO : None
+2017-12-26 16:44:25,582 - 12060 - INFO : None
+2017-12-26 16:44:25,584 - 12060 - INFO : None
+2017-12-26 16:44:25,584 - 12060 - INFO : None
+2017-12-26 16:44:25,585 - 12060 - INFO : None
+2017-12-26 16:44:25,957 - 12060 - INFO : None
+2017-12-26 16:44:25,959 - 12060 - INFO : None
+2017-12-26 16:44:25,959 - 12060 - INFO : get_cookie
+2017-12-26 16:44:28,918 - 12060 - INFO : None
+2017-12-26 16:44:28,921 - 12060 - INFO : myRequest
+2017-12-26 16:44:28,921 - 12060 - INFO : None
+2017-12-26 16:48:39,970 - 17104 - INFO : get_conf
+2017-12-26 16:48:39,970 - 17104 - INFO : get_conf
+2017-12-26 16:48:39,970 - 17104 - INFO : get_conf
+2017-12-26 16:48:39,971 - 17104 - INFO : get_conf
+2017-12-26 16:48:39,971 - 17104 - INFO : get_conf
+2017-12-26 16:48:39,973 - 17104 - INFO : get_conf
+2017-12-26 16:48:40,191 - 17104 - INFO : get_conf
+2017-12-26 16:48:40,193 - 17104 - INFO : get_conf
+2017-12-26 16:48:40,193 - 17104 - INFO : get_cookie
+2017-12-26 16:48:42,720 - 17104 - INFO : set_conf
+2017-12-26 16:48:42,721 - 17104 - INFO : myRequest
+2017-12-26 16:48:42,723 - 17104 - INFO : get_conf
+2017-12-26 16:52:42,198 - 2292 - INFO : get_conf
+2017-12-26 16:52:42,200 - 2292 - INFO : get_conf
+2017-12-26 16:52:42,200 - 2292 - INFO : get_conf
+2017-12-26 16:52:42,200 - 2292 - INFO : get_conf
+2017-12-26 16:52:42,200 - 2292 - INFO : get_conf
+2017-12-26 16:52:42,201 - 2292 - INFO : get_conf
+2017-12-26 16:52:42,423 - 2292 - INFO : get_conf
+2017-12-26 16:52:42,424 - 2292 - INFO : get_conf
+2017-12-26 16:52:42,424 - 2292 - INFO : myRequest
+2017-12-26 16:52:42,424 - 2292 - INFO : get_conf
+2017-12-26 16:55:51,280 - 14268 - INFO : get_conf
+2017-12-26 16:55:51,282 - 14268 - INFO : get_conf
+2017-12-26 16:55:51,282 - 14268 - INFO : get_conf
+2017-12-26 16:55:51,282 - 14268 - INFO : get_conf
+2017-12-26 16:55:51,283 - 14268 - INFO : get_conf
+2017-12-26 16:55:51,283 - 14268 - INFO : get_conf
+2017-12-26 16:55:51,507 - 14268 - INFO : get_conf
+2017-12-26 16:55:51,509 - 14268 - INFO : get_conf
+2017-12-26 16:55:51,509 - 14268 - INFO : myRequest
+2017-12-26 16:55:51,509 - 14268 - INFO : get_conf
+2017-12-26 16:56:58,243 - 12404 - INFO : get_conf
+2017-12-26 16:56:58,243 - 12404 - INFO : get_conf
+2017-12-26 16:56:58,243 - 12404 - INFO : get_conf
+2017-12-26 16:56:58,244 - 12404 - INFO : get_conf
+2017-12-26 16:56:58,246 - 12404 - INFO : get_conf
+2017-12-26 16:56:58,246 - 12404 - INFO : get_conf
+2017-12-26 16:56:58,461 - 12404 - INFO : get_conf
+2017-12-26 16:56:58,463 - 12404 - INFO : get_conf
+2017-12-26 16:56:58,463 - 12404 - INFO : myRequest
+2017-12-26 16:56:58,463 - 12404 - INFO : get_conf
+2017-12-26 16:58:35,604 - 9620 - INFO : get_conf
+2017-12-26 16:58:35,605 - 9620 - INFO : get_conf
+2017-12-26 16:58:35,605 - 9620 - INFO : get_conf
+2017-12-26 16:58:35,605 - 9620 - INFO : get_conf
+2017-12-26 16:58:35,607 - 9620 - INFO : get_conf
+2017-12-26 16:58:35,608 - 9620 - INFO : get_conf
+2017-12-26 16:58:35,828 - 9620 - INFO : get_conf
+2017-12-26 16:58:35,828 - 9620 - INFO : get_conf
+2017-12-26 16:58:35,828 - 9620 - INFO : myRequest
+2017-12-26 16:58:35,828 - 9620 - INFO : get_conf
+2017-12-26 17:02:01,270 - 1376 - INFO : get_conf
+2017-12-26 17:02:01,272 - 1376 - INFO : get_conf
+2017-12-26 17:02:01,272 - 1376 - INFO : get_conf
+2017-12-26 17:02:01,273 - 1376 - INFO : get_conf
+2017-12-26 17:02:01,273 - 1376 - INFO : get_conf
+2017-12-26 17:02:01,275 - 1376 - INFO : get_conf
+2017-12-26 17:02:01,519 - 1376 - INFO : get_conf
+2017-12-26 17:02:01,519 - 1376 - INFO : get_conf
+2017-12-26 17:02:01,519 - 1376 - INFO : myRequest
+2017-12-26 17:02:01,519 - 1376 - INFO : get_conf
+2017-12-26 17:03:46,312 - 15988 - INFO : get_conf
+2017-12-26 17:03:46,312 - 15988 - INFO : get_conf
+2017-12-26 17:03:46,312 - 15988 - INFO : get_conf
+2017-12-26 17:03:46,313 - 15988 - INFO : get_conf
+2017-12-26 17:03:46,313 - 15988 - INFO : get_conf
+2017-12-26 17:03:46,315 - 15988 - INFO : get_conf
+2017-12-26 17:03:46,532 - 15988 - INFO : get_conf
+2017-12-26 17:03:46,533 - 15988 - INFO : get_conf
+2017-12-26 17:03:46,535 - 15988 - INFO : myRequest
+2017-12-26 17:03:46,535 - 15988 - INFO : get_conf
+2017-12-26 17:03:46,842 - 15988 - WARNING : 接口异常！
+接口地址：http://isz.ishangzu.com/isz_contract/houseContractController/searchHouseContractListByWideTable.action
+请求参数：{'sort': 'create_time', 'pageNumber': 1, 'pageSize': 50, 'notQueryCount': 'false', 'contract_num_search': '\xe6\xb5\x8b\xe8\xaf\x95\xe7\xbb\xad\xe7\xad\xbe\xe8\xa3\x85\xe4\xbf\xae', 'total': 35602, 'order': 'DESC', 'current_dep_id': '00000000000000000000000000000000'}
+返回结果：java.lang.String cannot be cast to java.lang.Boolean
+2017-12-26 17:08:03,698 - 12384 - INFO : get_conf
+2017-12-26 17:08:03,700 - 12384 - INFO : get_conf
+2017-12-26 17:08:03,700 - 12384 - INFO : get_conf
+2017-12-26 17:08:03,700 - 12384 - INFO : get_conf
+2017-12-26 17:08:03,700 - 12384 - INFO : get_conf
+2017-12-26 17:08:03,701 - 12384 - INFO : get_conf
+2017-12-26 17:08:03,940 - 12384 - INFO : get_conf
+2017-12-26 17:08:03,941 - 12384 - INFO : get_conf
+2017-12-26 17:08:03,941 - 12384 - INFO : myRequest
+2017-12-26 17:08:03,943 - 12384 - INFO : get_conf
+2017-12-26 17:08:12,181 - 16444 - INFO : get_conf
+2017-12-26 17:08:12,183 - 16444 - INFO : get_conf
+2017-12-26 17:08:12,183 - 16444 - INFO : get_conf
+2017-12-26 17:08:12,184 - 16444 - INFO : get_conf
+2017-12-26 17:08:12,184 - 16444 - INFO : get_conf
+2017-12-26 17:08:12,184 - 16444 - INFO : get_conf
+2017-12-26 17:08:12,403 - 16444 - INFO : get_conf
+2017-12-26 17:08:12,403 - 16444 - INFO : get_conf
+2017-12-26 17:08:12,404 - 16444 - INFO : myRequest
+2017-12-26 17:08:12,404 - 16444 - INFO : get_conf
+2017-12-26 17:08:38,792 - 17164 - INFO : get_conf
+2017-12-26 17:08:38,792 - 17164 - INFO : get_conf
+2017-12-26 17:08:38,792 - 17164 - INFO : get_conf
+2017-12-26 17:08:38,793 - 17164 - INFO : get_conf
+2017-12-26 17:08:38,793 - 17164 - INFO : get_conf
+2017-12-26 17:08:38,795 - 17164 - INFO : get_conf
+2017-12-26 17:08:39,009 - 17164 - INFO : get_conf
+2017-12-26 17:08:39,010 - 17164 - INFO : get_conf
+2017-12-26 17:08:39,012 - 17164 - INFO : myRequest
+2017-12-26 17:08:39,012 - 17164 - INFO : get_conf
+2017-12-26 17:08:47,661 - 16608 - INFO : get_conf
+2017-12-26 17:08:47,661 - 16608 - INFO : get_conf
+2017-12-26 17:08:47,661 - 16608 - INFO : get_conf
+2017-12-26 17:08:47,661 - 16608 - INFO : get_conf
+2017-12-26 17:08:47,663 - 16608 - INFO : get_conf
+2017-12-26 17:08:47,663 - 16608 - INFO : get_conf
+2017-12-26 17:08:47,895 - 16608 - INFO : get_conf
+2017-12-26 17:08:47,895 - 16608 - INFO : get_conf
+2017-12-26 17:08:47,897 - 16608 - INFO : myRequest
+2017-12-26 17:08:47,898 - 16608 - INFO : get_conf
+2017-12-26 17:08:53,016 - 8280 - INFO : get_conf
+2017-12-26 17:08:53,017 - 8280 - INFO : get_conf
+2017-12-26 17:08:53,017 - 8280 - INFO : get_conf
+2017-12-26 17:08:53,019 - 8280 - INFO : get_conf
+2017-12-26 17:08:53,019 - 8280 - INFO : get_conf
+2017-12-26 17:08:53,019 - 8280 - INFO : get_conf
+2017-12-26 17:08:53,230 - 8280 - INFO : get_conf
+2017-12-26 17:08:53,230 - 8280 - INFO : get_conf
+2017-12-26 17:08:53,230 - 8280 - INFO : myRequest
+2017-12-26 17:08:53,232 - 8280 - INFO : get_conf
+2017-12-26 17:09:03,509 - 8952 - INFO : get_conf
+2017-12-26 17:09:03,509 - 8952 - INFO : get_conf
+2017-12-26 17:09:03,509 - 8952 - INFO : get_conf
+2017-12-26 17:09:03,509 - 8952 - INFO : get_conf
+2017-12-26 17:09:03,510 - 8952 - INFO : get_conf
+2017-12-26 17:09:03,510 - 8952 - INFO : get_conf
+2017-12-26 17:09:03,736 - 8952 - INFO : get_conf
+2017-12-26 17:09:03,736 - 8952 - INFO : get_conf
+2017-12-26 17:09:03,736 - 8952 - INFO : myRequest
+2017-12-26 17:09:03,736 - 8952 - INFO : get_conf
+2017-12-26 17:10:51,358 - 16748 - INFO : get_conf
+2017-12-26 17:10:51,358 - 16748 - INFO : get_conf
+2017-12-26 17:10:51,359 - 16748 - INFO : get_conf
+2017-12-26 17:10:51,359 - 16748 - INFO : get_conf
+2017-12-26 17:10:51,359 - 16748 - INFO : get_conf
+2017-12-26 17:10:51,361 - 16748 - INFO : get_conf
+2017-12-26 17:10:51,582 - 16748 - INFO : get_conf
+2017-12-26 17:10:51,582 - 16748 - INFO : get_conf
+2017-12-26 17:10:51,582 - 16748 - INFO : myRequest
+2017-12-26 17:10:51,582 - 16748 - INFO : get_conf
+2017-12-26 17:12:23,558 - 17976 - INFO : get_conf
+2017-12-26 17:12:23,558 - 17976 - INFO : get_conf
+2017-12-26 17:12:23,559 - 17976 - INFO : get_conf
+2017-12-26 17:12:23,559 - 17976 - INFO : get_conf
+2017-12-26 17:12:23,561 - 17976 - INFO : get_conf
+2017-12-26 17:12:23,562 - 17976 - INFO : get_conf
+2017-12-26 17:12:23,780 - 17976 - INFO : get_conf
+2017-12-26 17:12:23,780 - 17976 - INFO : get_conf
+2017-12-26 17:12:23,782 - 17976 - INFO : myRequest
+2017-12-26 17:12:23,782 - 17976 - INFO : get_conf
+2017-12-26 17:12:58,163 - 18036 - INFO : get_conf
+2017-12-26 17:12:58,163 - 18036 - INFO : get_conf
+2017-12-26 17:12:58,164 - 18036 - INFO : get_conf
+2017-12-26 17:12:58,164 - 18036 - INFO : get_conf
+2017-12-26 17:12:58,164 - 18036 - INFO : get_conf
+2017-12-26 17:12:58,164 - 18036 - INFO : get_conf
+2017-12-26 17:12:58,385 - 18036 - INFO : get_conf
+2017-12-26 17:12:58,387 - 18036 - INFO : get_conf
+2017-12-26 17:12:58,387 - 18036 - INFO : get_cookie
+2017-12-26 17:13:01,470 - 18036 - INFO : set_conf
+2017-12-26 17:13:01,471 - 18036 - INFO : myRequest
+2017-12-26 17:13:01,471 - 18036 - INFO : get_conf
+2017-12-26 17:14:35,842 - 17180 - INFO : get_conf
+2017-12-26 17:14:35,844 - 17180 - INFO : get_conf
+2017-12-26 17:14:35,845 - 17180 - INFO : get_conf
+2017-12-26 17:14:35,845 - 17180 - INFO : get_conf
+2017-12-26 17:14:35,845 - 17180 - INFO : get_conf
+2017-12-26 17:14:35,846 - 17180 - INFO : get_conf
+2017-12-26 17:14:36,073 - 17180 - INFO : get_conf
+2017-12-26 17:14:36,073 - 17180 - INFO : get_conf
+2017-12-26 17:14:36,075 - 17180 - INFO : myRequest
+2017-12-26 17:14:36,075 - 17180 - INFO : get_conf
+2017-12-26 17:18:14,855 - 18184 - INFO : get_conf
+2017-12-26 17:18:14,857 - 18184 - INFO : get_conf
+2017-12-26 17:18:14,857 - 18184 - INFO : get_conf
+2017-12-26 17:18:14,858 - 18184 - INFO : get_conf
+2017-12-26 17:18:14,858 - 18184 - INFO : get_conf
+2017-12-26 17:18:14,858 - 18184 - INFO : get_conf
+2017-12-26 17:18:15,076 - 18184 - INFO : get_conf
+2017-12-26 17:18:15,078 - 18184 - INFO : get_conf
+2017-12-26 17:18:15,078 - 18184 - INFO : myRequest
+2017-12-26 17:18:15,078 - 18184 - INFO : get_conf
+2017-12-26 17:18:27,609 - 17876 - INFO : get_conf
+2017-12-26 17:18:27,611 - 17876 - INFO : get_conf
+2017-12-26 17:18:27,611 - 17876 - INFO : get_conf
+2017-12-26 17:18:27,611 - 17876 - INFO : get_conf
+2017-12-26 17:18:27,611 - 17876 - INFO : get_conf
+2017-12-26 17:18:27,612 - 17876 - INFO : get_conf
+2017-12-26 17:18:27,855 - 17876 - INFO : get_conf
+2017-12-26 17:18:27,855 - 17876 - INFO : get_conf
+2017-12-26 17:18:27,855 - 17876 - INFO : myRequest
+2017-12-26 17:18:27,855 - 17876 - INFO : get_conf
+2017-12-26 17:18:49,634 - 16276 - INFO : get_conf
+2017-12-26 17:18:49,634 - 16276 - INFO : get_conf
+2017-12-26 17:18:49,634 - 16276 - INFO : get_conf
+2017-12-26 17:18:49,634 - 16276 - INFO : get_conf
+2017-12-26 17:18:49,635 - 16276 - INFO : get_conf
+2017-12-26 17:18:49,635 - 16276 - INFO : get_conf
+2017-12-26 17:18:49,859 - 16276 - INFO : get_conf
+2017-12-26 17:18:49,861 - 16276 - INFO : get_conf
+2017-12-26 17:18:49,861 - 16276 - INFO : myRequest
+2017-12-26 17:18:49,861 - 16276 - INFO : get_conf
+2017-12-26 17:20:21,770 - 17912 - INFO : get_conf
+2017-12-26 17:20:21,770 - 17912 - INFO : get_conf
+2017-12-26 17:20:21,772 - 17912 - INFO : get_conf
+2017-12-26 17:20:21,773 - 17912 - INFO : get_conf
+2017-12-26 17:20:21,773 - 17912 - INFO : get_conf
+2017-12-26 17:20:21,775 - 17912 - INFO : get_conf
+2017-12-26 17:20:22,020 - 17912 - INFO : get_conf
+2017-12-26 17:20:22,022 - 17912 - INFO : get_conf
+2017-12-26 17:20:22,023 - 17912 - INFO : myRequest
+2017-12-26 17:20:22,023 - 17912 - INFO : get_conf
+2017-12-26 17:29:24,898 - 14704 - INFO : get_conf
+2017-12-26 17:29:24,898 - 14704 - INFO : get_conf
+2017-12-26 17:29:24,898 - 14704 - INFO : get_conf
+2017-12-26 17:29:24,898 - 14704 - INFO : get_conf
+2017-12-26 17:29:24,900 - 14704 - INFO : get_conf
+2017-12-26 17:29:24,901 - 14704 - INFO : get_conf
+2017-12-26 17:29:25,121 - 14704 - INFO : get_conf
+2017-12-26 17:29:25,121 - 14704 - INFO : get_conf
+2017-12-26 17:29:25,122 - 14704 - INFO : myRequest
+2017-12-26 17:29:25,122 - 14704 - INFO : get_conf
+2017-12-26 17:33:05,596 - 8268 - INFO : get_conf
+2017-12-26 17:33:05,598 - 8268 - INFO : get_conf
+2017-12-26 17:33:05,598 - 8268 - INFO : get_conf
+2017-12-26 17:33:05,598 - 8268 - INFO : get_conf
+2017-12-26 17:33:05,598 - 8268 - INFO : get_conf
+2017-12-26 17:33:05,599 - 8268 - INFO : get_conf
+2017-12-26 17:33:05,825 - 8268 - INFO : get_conf
+2017-12-26 17:33:05,825 - 8268 - INFO : get_conf
+2017-12-26 17:33:05,826 - 8268 - INFO : myRequest
+2017-12-26 17:33:05,826 - 8268 - INFO : get_conf
+2017-12-26 17:33:27,285 - 11920 - INFO : get_conf
+2017-12-26 17:33:27,285 - 11920 - INFO : get_conf
+2017-12-26 17:33:27,286 - 11920 - INFO : get_conf
+2017-12-26 17:33:27,286 - 11920 - INFO : get_conf
+2017-12-26 17:33:27,286 - 11920 - INFO : get_conf
+2017-12-26 17:33:27,288 - 11920 - INFO : get_conf
+2017-12-26 17:33:27,513 - 11920 - INFO : get_conf
+2017-12-26 17:33:27,513 - 11920 - INFO : get_conf
+2017-12-26 17:33:27,513 - 11920 - INFO : myRequest
+2017-12-26 17:33:27,513 - 11920 - INFO : get_conf
+2017-12-26 17:36:58,992 - 13652 - INFO : get_conf
+2017-12-26 17:36:58,993 - 13652 - INFO : get_conf
+2017-12-26 17:36:58,993 - 13652 - INFO : get_conf
+2017-12-26 17:36:58,993 - 13652 - INFO : get_conf
+2017-12-26 17:36:58,993 - 13652 - INFO : get_conf
+2017-12-26 17:36:58,994 - 13652 - INFO : get_conf
+2017-12-26 17:36:59,221 - 13652 - INFO : get_conf
+2017-12-26 17:36:59,221 - 13652 - INFO : get_conf
+2017-12-26 17:37:12,299 - 12384 - INFO : get_conf
+2017-12-26 17:37:12,301 - 12384 - INFO : get_conf
+2017-12-26 17:37:12,301 - 12384 - INFO : get_conf
+2017-12-26 17:37:12,302 - 12384 - INFO : get_conf
+2017-12-26 17:37:12,302 - 12384 - INFO : get_conf
+2017-12-26 17:37:12,302 - 12384 - INFO : get_conf
+2017-12-26 17:37:12,520 - 12384 - INFO : get_conf
+2017-12-26 17:37:12,520 - 12384 - INFO : get_conf
+2017-12-26 17:37:12,522 - 12384 - INFO : myRequest
+2017-12-26 17:37:12,522 - 12384 - INFO : get_conf
+2017-12-26 17:37:48,490 - 16776 - INFO : get_conf
+2017-12-26 17:37:48,490 - 16776 - INFO : get_conf
+2017-12-26 17:37:48,490 - 16776 - INFO : get_conf
+2017-12-26 17:37:48,492 - 16776 - INFO : get_conf
+2017-12-26 17:37:48,493 - 16776 - INFO : get_conf
+2017-12-26 17:37:48,493 - 16776 - INFO : get_conf
+2017-12-26 17:37:48,724 - 16776 - INFO : get_conf
+2017-12-26 17:37:48,726 - 16776 - INFO : get_conf
+2017-12-26 17:37:48,727 - 16776 - INFO : myRequest
+2017-12-26 17:37:48,727 - 16776 - INFO : get_conf
+2017-12-26 18:13:49,684 - 9372 - INFO : get_conf
+2017-12-26 18:13:49,686 - 9372 - INFO : get_conf
+2017-12-26 18:13:49,686 - 9372 - INFO : get_conf
+2017-12-26 18:13:49,687 - 9372 - INFO : get_conf
+2017-12-26 18:13:49,687 - 9372 - INFO : get_conf
+2017-12-26 18:13:49,687 - 9372 - INFO : get_conf
+2017-12-26 18:13:49,918 - 9372 - INFO : get_conf
+2017-12-26 18:13:49,918 - 9372 - INFO : get_conf
+2017-12-26 18:13:49,920 - 9372 - INFO : myRequest
+2017-12-26 18:13:49,920 - 9372 - INFO : get_conf
+2017-12-26 18:15:21,023 - 1852 - INFO : get_conf
+2017-12-26 18:15:21,025 - 1852 - INFO : get_conf
+2017-12-26 18:15:21,025 - 1852 - INFO : get_conf
+2017-12-26 18:15:21,026 - 1852 - INFO : get_conf
+2017-12-26 18:15:21,026 - 1852 - INFO : get_conf
+2017-12-26 18:15:21,026 - 1852 - INFO : get_conf
+2017-12-26 18:15:21,247 - 1852 - INFO : get_conf
+2017-12-26 18:15:21,249 - 1852 - INFO : get_conf
+2017-12-26 18:15:21,250 - 1852 - INFO : myRequest
+2017-12-26 18:15:21,250 - 1852 - INFO : get_conf
+2017-12-26 18:15:35,216 - 16996 - INFO : get_conf
+2017-12-26 18:15:35,217 - 16996 - INFO : get_conf
+2017-12-26 18:15:35,217 - 16996 - INFO : get_conf
+2017-12-26 18:15:35,217 - 16996 - INFO : get_conf
+2017-12-26 18:15:35,217 - 16996 - INFO : get_conf
+2017-12-26 18:15:35,219 - 16996 - INFO : get_conf
+2017-12-26 18:15:35,437 - 16996 - INFO : get_conf
+2017-12-26 18:15:35,437 - 16996 - INFO : get_conf
+2017-12-26 18:15:35,437 - 16996 - INFO : myRequest
+2017-12-26 18:15:35,437 - 16996 - INFO : get_conf
+2017-12-26 18:15:43,523 - 15032 - INFO : get_conf
+2017-12-26 18:15:43,525 - 15032 - INFO : get_conf
+2017-12-26 18:15:43,526 - 15032 - INFO : get_conf
+2017-12-26 18:15:43,526 - 15032 - INFO : get_conf
+2017-12-26 18:15:43,526 - 15032 - INFO : get_conf
+2017-12-26 18:15:43,526 - 15032 - INFO : get_conf
+2017-12-26 18:15:43,750 - 15032 - INFO : get_conf
+2017-12-26 18:15:43,752 - 15032 - INFO : get_conf
+2017-12-26 18:15:43,752 - 15032 - INFO : myRequest
+2017-12-26 18:15:43,752 - 15032 - INFO : get_conf
+2017-12-26 18:15:57,069 - 16768 - INFO : get_conf
+2017-12-26 18:15:57,069 - 16768 - INFO : get_conf
+2017-12-26 18:15:57,071 - 16768 - INFO : get_conf
+2017-12-26 18:15:57,071 - 16768 - INFO : get_conf
+2017-12-26 18:15:57,072 - 16768 - INFO : get_conf
+2017-12-26 18:15:57,072 - 16768 - INFO : get_conf
+2017-12-26 18:15:57,299 - 16768 - INFO : get_conf
+2017-12-26 18:15:57,299 - 16768 - INFO : get_conf
+2017-12-26 18:15:57,299 - 16768 - INFO : myRequest
+2017-12-26 18:15:57,299 - 16768 - INFO : get_conf
+2017-12-26 18:16:40,267 - 256 - INFO : get_conf
+2017-12-26 18:16:40,269 - 256 - INFO : get_conf
+2017-12-26 18:16:40,269 - 256 - INFO : get_conf
+2017-12-26 18:16:40,269 - 256 - INFO : get_conf
+2017-12-26 18:16:40,269 - 256 - INFO : get_conf
+2017-12-26 18:16:40,270 - 256 - INFO : get_conf
+2017-12-26 18:16:40,492 - 256 - INFO : get_conf
+2017-12-26 18:16:40,492 - 256 - INFO : get_conf
+2017-12-26 18:16:40,493 - 256 - INFO : myRequest
+2017-12-26 18:16:40,493 - 256 - INFO : get_conf
+2017-12-26 18:17:20,334 - 16704 - INFO : get_conf
+2017-12-26 18:17:20,335 - 16704 - INFO : get_conf
+2017-12-26 18:17:20,335 - 16704 - INFO : get_conf
+2017-12-26 18:17:20,335 - 16704 - INFO : get_conf
+2017-12-26 18:17:20,335 - 16704 - INFO : get_conf
+2017-12-26 18:17:20,336 - 16704 - INFO : get_conf
+2017-12-26 18:17:20,555 - 16704 - INFO : get_conf
+2017-12-26 18:17:20,555 - 16704 - INFO : get_conf
+2017-12-26 18:17:20,556 - 16704 - INFO : myRequest
+2017-12-26 18:17:20,556 - 16704 - INFO : get_conf
+2017-12-26 18:17:39,256 - 7184 - INFO : get_conf
+2017-12-26 18:17:39,257 - 7184 - INFO : get_conf
+2017-12-26 18:17:39,257 - 7184 - INFO : get_conf
+2017-12-26 18:17:39,259 - 7184 - INFO : get_conf
+2017-12-26 18:17:39,259 - 7184 - INFO : get_conf
+2017-12-26 18:17:39,259 - 7184 - INFO : get_conf
+2017-12-26 18:17:39,483 - 7184 - INFO : get_conf
+2017-12-26 18:17:39,483 - 7184 - INFO : get_conf
+2017-12-26 18:17:39,483 - 7184 - INFO : get_cookie
+2017-12-26 18:17:42,729 - 7184 - INFO : myRequest
+2017-12-26 18:17:42,729 - 7184 - INFO : get_conf
+2017-12-26 18:17:42,793 - 7184 - INFO : myRequest
+2017-12-26 18:17:42,795 - 7184 - INFO : get_conf
+2017-12-26 18:17:43,467 - 7184 - INFO : myRequest
+2017-12-26 18:17:43,467 - 7184 - INFO : get_conf
+2017-12-26 18:17:43,671 - 7184 - INFO : myRequest
+2017-12-26 18:17:43,671 - 7184 - INFO : get_conf
+2017-12-26 18:17:43,691 - 7184 - WARNING : 接口异常！
+接口地址：http://isz.ishangzu.com/isz_base/LoginController/checkVerificationCode.action
+请求参数：{'user_phone': '18279881085', 'user_pwd': 'a123456789', 'authTag': u'4028804A6091EF4E01609253F80A0012', 'verificationCode': '0451', 'auth_code': 'BD229B6E3C19414DD084777CBFFB987E7C0CF55C69E29DD0458D8845DDC85EE3E3419450E65FF6253259989567AD91D6702DB353AD1110A6E060AB64CD0F9003418304427FC18A68C3D95B8284BCC6779729B3B6994885AAB680C08B655098C31736095C7D7F791D6B6EF290C429411F896275B896404BBD06CD262EA6A33757FA8333C4A0DB1280FF9B6D8A5C579BEB4B7952B4BFBA5DF96113706B81FEBD933D922AE7991CE199D672EB0DE067940BD69450A2D5CE334F1C234B9F868429E26F056702028732D5DD89063E463D17B0ABAD033DCF3599F1A4C370C8D8D3ECEAFB2C71054650AB26ECBE35DD2E15A30D5A78E8DC8E84B8AF5BF2B63A5A8FDCD8F4B3774B036758BB8A0DE2303BEBCA5876D1373405DA084E9A2997D113F80D2974D0567F512732FDBDF28098A67D07E770EE972E1E123061D85A9316E30902B7'}
+返回结果：验证码错误！
+2017-12-26 18:17:43,711 - 7184 - WARNING : 接口异常！
+接口地址：http://isz.ishangzu.com/isz_base/LoginController/checkVerificationCode.action
+请求参数：{'user_phone': '18279881085', 'user_pwd': 'a123456789', 'authTag': u'4028804A6091EF4E01609253F80A0012', 'verificationCode': '0451', 'auth_code': 'BD229B6E3C19414DD084777CBFFB987E7C0CF55C69E29DD0458D8845DDC85EE3E3419450E65FF6253259989567AD91D6702DB353AD1110A6E060AB64CD0F9003418304427FC18A68C3D95B8284BCC6779729B3B6994885AAB680C08B655098C31736095C7D7F791D6B6EF290C429411F896275B896404BBD06CD262EA6A33757FA8333C4A0DB1280FF9B6D8A5C579BEB4B7952B4BFBA5DF96113706B81FEBD933D922AE7991CE199D672EB0DE067940BD69450A2D5CE334F1C234B9F868429E26F056702028732D5DD89063E463D17B0ABAD033DCF3599F1A4C370C8D8D3ECEAFB2C71054650AB26ECBE35DD2E15A30D5A78E8DC8E84B8AF5BF2B63A5A8FDCD8F4B3774B036758BB8A0DE2303BEBCA5876D1373405DA084E9A2997D113F80D2974D0567F512732FDBDF28098A67D07E770EE972E1E123061D85A9316E30902B7'}
+返回结果：验证码错误！
+2017-12-26 18:17:43,711 - 7184 - INFO : myRequest
+2017-12-26 18:17:43,713 - 7184 - INFO : get_conf
+2017-12-26 18:18:25,293 - 5448 - INFO : get_conf
+2017-12-26 18:18:25,295 - 5448 - INFO : get_conf
+2017-12-26 18:18:25,296 - 5448 - INFO : get_conf
+2017-12-26 18:18:25,296 - 5448 - INFO : get_conf
+2017-12-26 18:18:25,296 - 5448 - INFO : get_conf
+2017-12-26 18:18:25,296 - 5448 - INFO : get_conf
+2017-12-26 18:18:25,520 - 5448 - INFO : get_conf
+2017-12-26 18:18:25,522 - 5448 - INFO : get_conf
+2017-12-26 18:18:25,523 - 5448 - INFO : get_cookie
+2017-12-26 18:18:25,601 - 5448 - WARNING : 接口异常！
+接口地址：http://isz.ishangzu.com/isz_base/LoginController/login.action
+请求参数：{'LechuuPlatform': 'LECHUU_CUSTOMER', 'user_phone': '18279881085', 'version': '1.0.0', 'user_pwd': 'a123456789', 'auth_code': ''}
+返回结果：密码错误
+2017-12-26 18:18:25,601 - 5448 - INFO : myRequest
+2017-12-26 18:18:25,601 - 5448 - INFO : get_conf
+2017-12-26 18:18:55,187 - 7996 - INFO : get_conf
+2017-12-26 18:18:55,187 - 7996 - INFO : get_conf
+2017-12-26 18:18:55,187 - 7996 - INFO : get_conf
+2017-12-26 18:18:55,188 - 7996 - INFO : get_conf
+2017-12-26 18:18:55,190 - 7996 - INFO : get_conf
+2017-12-26 18:18:55,190 - 7996 - INFO : get_conf
+2017-12-26 18:18:55,405 - 7996 - INFO : get_conf
+2017-12-26 18:18:55,407 - 7996 - INFO : get_conf
+2017-12-26 18:18:55,407 - 7996 - INFO : get_cookie
+2017-12-26 18:18:58,079 - 7996 - INFO : set_conf
+2017-12-26 18:18:58,082 - 7996 - INFO : myRequest
+2017-12-26 18:18:58,082 - 7996 - INFO : get_conf
+2017-12-26 19:20:37,407 - 6392 - INFO : get_conf
+2017-12-26 19:20:37,407 - 6392 - INFO : get_conf
+2017-12-26 19:20:37,407 - 6392 - INFO : get_conf
+2017-12-26 19:20:37,407 - 6392 - INFO : get_conf
+2017-12-26 19:20:37,408 - 6392 - INFO : get_conf
+2017-12-26 19:20:37,408 - 6392 - INFO : get_conf
+2017-12-26 19:20:37,647 - 6392 - INFO : get_conf
+2017-12-26 19:20:37,648 - 6392 - INFO : get_conf
+2017-12-26 19:20:37,648 - 6392 - INFO : get_cookie
+2017-12-26 19:20:40,214 - 6392 - INFO : set_conf
+2017-12-26 19:20:40,217 - 6392 - INFO : myRequest
+2017-12-26 19:20:40,217 - 6392 - INFO : get_conf
+2017-12-26 19:41:43,362 - 7824 - INFO : get_cookie
+2017-12-26 19:41:46,112 - 7824 - INFO : myRequest
+2017-12-26 19:41:46,831 - 7824 - INFO : get_cookie
+2017-12-26 19:41:51,625 - 12540 - INFO : get_cookie
+2017-12-26 19:41:54,191 - 12540 - INFO : myRequest
+2017-12-26 19:52:07,479 - 18396 - INFO : None
+2017-12-26 19:52:07,479 - 18396 - INFO : myRequest
+2017-12-26 19:52:52,973 - 17028 - INFO : test
+2017-12-26 19:52:52,973 - 17028 - INFO : myRequest
+2017-12-26 19:56:15,154 - 13588 - INFO : test
+2017-12-26 19:56:15,154 - 13588 - INFO : myRequest
+2017-12-26 19:56:38,190 - 5700 - INFO : test
+2017-12-26 19:56:38,190 - 5700 - INFO : myRequest
+2017-12-26 19:56:52,842 - 6112 - INFO : test
+2017-12-26 19:56:52,842 - 6112 - INFO : myRequest
+2017-12-26 19:57:03,641 - 14848 - INFO : test
+2017-12-26 19:57:03,641 - 14848 - INFO : myRequest
+2017-12-26 19:57:25,358 - 18108 - INFO : test
+2017-12-26 19:59:33,811 - 15096 - INFO : test
+2017-12-26 19:59:33,811 - 15096 - INFO : myRequest
+2017-12-26 19:59:47,908 - 15432 - INFO : test
+2017-12-26 19:59:47,908 - 15432 - INFO : myRequest
+2017-12-26 19:59:48,023 - 15432 - WARNING : 接口异常！
+接口地址：http://isz.ishangzu.com/isz_contract/houseContractController/searchHouseContractListByWideTable.action
+请求参数：{'sort': 'create_timesssss', 'pageSize': 50, 'current_dep_id': '00000000000000000000000000000000', 'pageNumber': 1, 'notQueryCount': False, 'total': 35602, 'order': 'DESC'}
+返回结果：
+### Error querying database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'create_timesssss' in 'order clause'
+### The error may exist in URL [jar:file:/var/www/erp-service-contract/erp-service-contract1.0-SNAPSHOT.jar!/com/isz/erp/contract/mapper/impl/HouseContractMapper.mybatis.xml]
+### The error may involve com.isz.erp.contract.mapper.HouseContractMapper.searchHouseContractListByWideTable-Inline
+### The error occurred while setting parameters
+### SQL: SELECT   qhc.house_id,   qhc.contract_id,   DATE_FORMAT(qhc.create_time,'%Y-%m-%d') as create_time,   qhc.sign_date,   qhc.contract_status,   qhc.contract_type,   qhc.entrust_type,   qhc.apartment_type,   qhc.contract_num,   qhc.apartment_code,   qhc.address,   qhc.landlord_name,   DATE_FORMAT(qhc.entrust_start_date,'%Y-%m-%d') as entrust_start_date,   DATE_FORMAT(qhc.entrust_end_date,'%Y-%m-%d') as entrust_end_date,   qhc.payment_cycle,   qhc.rental_price,   qhc.sign_dep_name,   qhc.sign_user_name,   qhc.server_manage_name,   qhc.capital_source,   qhc.reform_way,   DATE_FORMAT(qhc.rent_end_date,'%Y-%m-%d') as rent_end_date,   DATE_FORMAT(qhc.real_due_date,'%Y-%m-%d') as real_due_date,   qhc.audit_status,   DATE_FORMAT(qhc.audit_time,'%Y-%m-%d %H:%i:%S') as audit_time,   qhc.server_manage_uid,   qhc.server_manage_did,   qhc.sign_uid,   qhc.sign_did,   qhc.dids,   qhc.uids,   qhc.delivery_code   FROM   query_house_contract qhc                    ORDER BY create_timesssss          DESC limit 0,50
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'create_timesssss' in 'order clause'
+; bad SQL grammar []; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'create_timesssss' in 'order clause'
+2017-12-27 17:33:46,694 - 6336 - INFO : test
+2017-12-27 17:33:46,703 - 6336 - INFO : myRequest
+2017-12-27 17:38:59,767 - 18080 - INFO : myRequest
+2017-12-27 18:14:47,542 - 9048 - INFO : myRequest
+2017-12-27 18:16:39,743 - 6344 - INFO : myRequest
+2017-12-27 18:26:04,559 - 12096 - INFO : get_cookie
+2017-12-27 18:26:07,928 - 12096 - INFO : myRequest
+2017-12-27 18:26:08,006 - 12096 - INFO : myRequest
+2017-12-27 18:27:46,119 - 17344 - INFO : myRequest
+2017-12-28 09:36:54,259 - 11336 - INFO : myRequest
+2017-12-28 09:36:54,319 - 11336 - INFO : get_cookie
+2017-12-28 09:36:56,835 - 11336 - INFO : myRequest
+2017-12-28 09:36:56,928 - 11336 - WARNING : 接口异常！
+接口地址：http://isz.ishangzu.com/isz_finance/ApartmentContractReceiptsController/searchAptContrReceivableList.action
+请求参数：{"receivable_date_start_search":"2017-06-01","receivable_date_end_search":"2017-06-30","pageNumber":1,"pageSize":30,"current_city_code":"330100","current_dep_id":"00000000000000000000000000000000","sort":"acr.create_time","order":"desc"}
+返回结果：系统出现未知错误请检查数据再次操作.
+2017-12-28 09:45:49,553 - 7700 - INFO : myRequest
+2017-12-28 09:45:50,283 - 7700 - WARNING : 接口异常！
+接口地址：http://isz.ishangzu.com/isz_finance/ApartmentContractReceiptsController/searchAptContrReceivableList.action
+请求参数：{"receivable_date_start_search":"2017-06-01","receivable_date_end_search":"2017-06-30","pageNumber":1,"pageSize":30,"current_city_code":"330100","current_dep_id":"00000000000000000000000000000000","sort":"acr.create_time","order":"desc"}
+返回结果：系统出现未知错误请检查数据再次操作.
+2017-12-28 09:45:50,285 - 7700 - INFO : get_cookie
+2017-12-28 09:45:53,088 - 7700 - INFO : myRequest
+2017-12-28 09:45:53,165 - 7700 - WARNING : 接口异常！
+接口地址：http://isz.ishangzu.com/isz_finance/ApartmentContractReceiptsController/searchAptContrReceivableList.action
+请求参数：{"receivable_date_start_search":"2017-06-01","receivable_date_end_search":"2017-06-30","pageNumber":1,"pageSize":30,"current_city_code":"330100","current_dep_id":"00000000000000000000000000000000","sort":"acr.create_time","order":"desc"}
+返回结果：系统出现未知错误请检查数据再次操作.
+2017-12-28 09:46:17,871 - 14152 - INFO : myRequest
+2017-12-28 09:46:17,951 - 14152 - WARNING : 接口异常！
+接口地址：http://isz.ishangzu.com/isz_finance/ApartmentContractReceiptsController/searchAptContrReceivableList.action
+请求参数：{"receivable_date_start_search":"2017-06-01","receivable_date_end_search":"2017-06-30","pageNumber":1,"pageSize":30,"current_city_code":"330100","current_dep_id":"00000000000000000000000000000000","sort":"acr.create_time","order":"desc"}
+返回结果：系统出现未知错误请检查数据再次操作.
